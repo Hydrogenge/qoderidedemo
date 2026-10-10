@@ -7,3 +7,30 @@ def print_pyramid(n: int):
 
 if __name__ == "__main__":
     print_pyramid(10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
